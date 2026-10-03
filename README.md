@@ -77,6 +77,14 @@ While building this project, I practiced:
 
 ---
 
+## How to Play
+
+1. Press any key to start.
+2. Watch the sequence shown by the game.
+3. Repeat the sequence by clicking the buttons.
+4. Each successful round adds another step to the sequence.
+5. Try to achieve the highest score!
+
 ## 👩‍💻 Author
 
 **Shruti Zade**
